@@ -1,5 +1,5 @@
 This repository contains various ebuilds for projects not in the main
 portage tree.
 
-app-admin/kpcli: A command line keepass client in Perl.
-dev-perl/File-Keepass: Perl library for reading keepass database files.
+app-admin/kpcli: A command line keepass client written in Perl.
+dev-perl/File-Keepass: A Perl library for reading keepass database files.
